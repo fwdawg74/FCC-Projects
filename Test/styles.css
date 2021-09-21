@@ -1,0 +1,17 @@
+body {
+   /* text-align: center; */
+}
+
+h3 {
+    text-align: center;
+}
+input[type="radio"] {
+    margin-top: -1px;
+    vertical-align: middle;
+}
+
+.radio {
+    align-items: center;
+    text-align: center; 
+    
+}
